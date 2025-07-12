@@ -1,6 +1,10 @@
 
 # go-random-password-generator
 
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) 
+![CLI](https://img.shields.io/badge/PowerShell-CLI-5391FE?logo=powershell&logoColor=white)
+![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 A simple, secure, and highly customizable command-line tool written in Go for generating random passwords. This tool uses cryptographically secure random number generation to ensure strong, unpredictable passwords for your accounts, applications, or scripts.
 
 ---
